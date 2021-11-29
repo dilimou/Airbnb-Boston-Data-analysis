@@ -33,7 +33,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](#).
+The main findings of the code can be found directly inside the file.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
