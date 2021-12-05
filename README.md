@@ -20,10 +20,9 @@ For this project, I was interestested in using the Airbnb Boston activity datase
 To do so, this project will answer the below questions:
 
 1. What type of properties are being booked the most?
-2. What are the property traits that attract the highest ratings?
-3. Is there a relation between the number of bookings of a place and the reviews score?  
+2. Is there a relation between the number of bookings of a place and the reviews score?
+3. Is there anything that bias the reviews of the users?
 4. How reviews for a given property changes through seasons?
-5. When in the year customers gives the best reviews?
 
 
 ## File Descriptions <a name="files"></a>
@@ -33,7 +32,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found directly inside the file.
+The main findings of the code can be found at the post available [here](https://medium.com/@malianwics/how-honest-are-the-airbnb-reviews-93ccdc4fcc75).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
