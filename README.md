@@ -32,7 +32,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@malianwics/how-honest-are-the-airbnb-reviews-93ccdc4fcc75).
+The main findings of the code can be found at the post available [here](https://medium.com/@dilidev/how-honest-are-the-airbnb-reviews-93ccdc4fcc75).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
