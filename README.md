@@ -16,8 +16,7 @@ The only thing needed to run the code is the Anaconda distribution of Python.  T
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using the Airbnb Boston activity dataset to understand customer satisfaction, and what interesting result we can get from analysing the customer reviews.
-To do so, this project will answer the below questions:
+For this project, I was interested in using the Airbnb Boston activity dataset to understand customer satisfaction, and what interesting result we can get from analyzing the customer reviews. To do so, this project will answer the below questions:
 
 1. What type of properties are being booked the most?
 2. Is there a relation between the number of bookings of a place and the reviews score?
@@ -27,7 +26,7 @@ To do so, this project will answer the below questions:
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebooks available here to showcase work related to the above questions.  As well as folder containing the data used. The dource of the data and more information can be found [here](https://www.kaggle.com/airbnb/boston?select=listings.csv).
+There is 1 notebook available here to showcase work related to the above questions.  As well as folder containing the data used. The source of the data and more information can be found [here](https://www.kaggle.com/airbnb/boston?select=listings.csv).
 
 
 ## Results<a name="results"></a>
